@@ -19,9 +19,11 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?flat&logo=amazonaws&logoColor=white)&nbsp;
 
 ### LinkedIn
+
 <p align="left">
   <a href="https://www.linkedin.com/in/jeremy-britt/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### GitHub Stats
+
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jbritt1&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
