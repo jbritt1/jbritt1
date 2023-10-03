@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am currently working as a Senior DevOps Engineer for [Oddball](https://oddball.io/).
-- Here's my <a href="https://www.linkedin.com/in/jeremy-britt/"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+- <a href="https://www.linkedin.com/in/jeremy-britt/"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 
 ### :computer: &nbsp;Expertise
 
