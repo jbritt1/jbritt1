@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Senior DevOps Engineer for [Oddball](https://oddball.io/).
 
-### :computer: &nbsp;Main tech knowledge
+### :computer: &nbsp;Expertise
 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
