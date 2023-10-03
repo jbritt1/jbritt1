@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeremy-britt/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 ![jbritt1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbritt1&theme=neon&show_icons=true)
