@@ -26,7 +26,7 @@
 ### LinkedIn
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jeremy-britt/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jeremy-britt/"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### GitHub Stats
