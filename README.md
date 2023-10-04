@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 &nbsp; Hi there
 
 - 💻 &nbsp; I am currently working as a Senior DevOps Engineer for [Oddball](https://oddball.io/)
 
