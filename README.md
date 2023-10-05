@@ -1,6 +1,7 @@
 ### 👋 &nbsp; Hi there
 
 - 💻 &nbsp; I am currently working as a Senior DevOps Engineer for [Oddball](https://oddball.io/)
+- 🛠️ &nbsp; I have passion for automation and building scalable cloud infrastructure
 
 ### ⚡ &nbsp;Expertise
 
