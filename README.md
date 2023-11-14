@@ -26,7 +26,6 @@
 ### :octocat: &nbsp; GitHub Stats
 
 <img height="137px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbritt1&theme=nightowl" />&nbsp;
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=jbritt1&show_icons=true&include_all_commits=true&theme=nightowl" />&nbsp;
 
 ### 👇 &nbsp; LinkedIn
 
